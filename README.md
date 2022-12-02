@@ -9,7 +9,7 @@ Creamos el volumen de docker
 minecraftdata es el nombre del volumen no necesariamente tiene que ser el mismo pero en caso de que cambie también tiene que cambiar el nombre en el docker-compose.yml.
 
 # Paso 2- Descargar/Editar el archivo docker-compose.yml
-Descargar la plantilla aqui
+Descargar la plantilla [aqui](https://www.google.com)
 
 Usar el editor de texto de tu elección para hacer las modificaciones
 
