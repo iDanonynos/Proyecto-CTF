@@ -94,6 +94,9 @@ Para esto volveremos a utilizar el comando scp del paso 2 pero ahora en la carpe
 
 ### A partir de este punto el servidor de Minecraft es accesible por medio de la IP del servidor y perfectamente jugable, los pasos 5 y 6 son para respaldar y restaurar el servidor respectivamente
 
+![11](https://user-images.githubusercontent.com/62454146/205457271-b4c0713a-30b9-45ef-bfe4-5702a0037da5.png)
+
+
 # Paso 5 - Crear el script de respaldo
 
 Descargar el script puedes hacerlo [aqui](https://drive.google.com/file/d/1tAC3f_sTcKSLxgg9iffMsl0ag1dunxsP/view?usp=share_link)
